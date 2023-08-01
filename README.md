@@ -1,6 +1,7 @@
 # RandomUserTest
 Full native application without third party frameworks 
 
+![ezgif com-resize](https://github.com/RaulCarmona/RandomUserTest/assets/75344372/3ac7506d-c059-4a3d-a07e-abc75b114ed3)
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 20 14 31](https://github.com/RaulCarmona/RandomUserTest/assets/75344372/bc50c716-e1d5-47d1-bd6d-e123afdce2a3)
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 20 14 22](https://github.com/RaulCarmona/RandomUserTest/assets/75344372/8b9d55f5-a6fd-4701-9075-df21be4561bd)
